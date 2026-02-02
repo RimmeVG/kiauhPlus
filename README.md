@@ -89,14 +89,14 @@ sudo apt-get update && sudo apt-get install git -y
   home-directory:
 
 ```shell
-cd ~ && git clone https://github.com/dw-0/kiauh.git
+cd ~ && git clone https://github.com/RimmeVG/kiauhPlus.git
 ```
 
 * **Step 3:** \
   Finally, start KIAUH by running the next command:
 
 ```shell
-./kiauh/kiauh.sh
+./kiauhPlus/kiauh.sh
 ```
 
 * **Step 4:** \
